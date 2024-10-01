@@ -1,8 +1,8 @@
 # Flutter Movie App with Clean Architecture and Bloc State Management - FilmKu
 
-![Flutter Movie Application](/screenshots/screenshots.png)
 
-[Watch the Video Demo](https://youtu.be/i4VrO4GgkuM?si=pTsVLC43wwNdvo0E)
+
+
 
 FilmKu is an open-source Flutter movie application that exemplifies Clean architecture principles
 while leveraging
